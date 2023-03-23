@@ -3,7 +3,7 @@ using Figure;
 namespace FigureTest
 {
     [TestFixture]
-    public class CircleTest
+    public class CircleTests
     {
         [TestCase(1, ExpectedResult = Math.PI)]
         [TestCase(2, ExpectedResult = Math.PI * 4)]
