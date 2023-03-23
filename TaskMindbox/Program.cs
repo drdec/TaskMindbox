@@ -1,10 +1,12 @@
-﻿namespace TaskMindbox
+﻿using Figure;
+
+namespace TaskMindbox
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
         }
     }
 }
