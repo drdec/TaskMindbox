@@ -27,7 +27,7 @@
             return Math.Sqrt(p * (p - _sizeA) * (p - _sizeB) * (p - _sizeC));
         }
 
-        public bool IsRectangleAngled()
+        public bool IsRightAngled()
         {
             var sides = new double[] { _sizeA, _sizeB, _sizeC };
 
