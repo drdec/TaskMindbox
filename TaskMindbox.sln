@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figure", "Figure\Figure.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureTest", "FigureTest\FigureTest.csproj", "{355E9B83-FAEB-466E-BCF0-B3FB8EA5EB6D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{23932306-AC1E-47A5-A362-BA60BFA8629F}"
+	ProjectSection(SolutionItems) = preProject
+		SQLRequest.txt = SQLRequest.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
